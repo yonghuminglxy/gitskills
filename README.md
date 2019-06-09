@@ -1,3 +1,3 @@
 # gitskills
 insert one
-insert two + 4
+insert two + 2
